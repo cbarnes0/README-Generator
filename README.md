@@ -1,10 +1,10 @@
-# README-Generator
+# README Generator
   
     ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
   
     ## Description
     
-    Using the command line to generate README files
+    Generate README
     
     ## Table of Contents
     
@@ -29,7 +29,7 @@
     
     ## Tests
     
-    Install it! Use it!
+    Test it!
     
     ## License
   
