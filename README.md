@@ -1,10 +1,10 @@
-# test
+# README-Generator
     
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
     
 ## Description
     
-test
+This project will generate a README file for you using npm inquirer and the command line.
     
 ## Table of Contents
     
@@ -17,19 +17,19 @@ test
     
 ## Installation
     
-test
+To use first you must clone the repo. You then must use ```npm i``` and ```npm i inquirer@8.2.4``` to properly run the application. Then use ```node index.js``` to run.
     
 ## Usage
     
-test
+link to video will be put here after filming it.
     
 ## Contributing
     
-test
+No outside contributions currently.
     
 ## Tests
     
-test
+Follow installation guide to test as you would like.
     
 ## License
     
