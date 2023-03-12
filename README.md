@@ -1,43 +1,41 @@
-# README Generator
-  
-    ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-  
-    ## Description
+# README-Generator
     
-    Generate README
+      ![License](https://img.shields.io/badge/license-MIT-blue.svg)
     
-    ## Table of Contents
+      ## Description
     
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [License](#license)
-    - [Questions](#questions)
+      This project is meant to generate README
     
-    ## Installation
+      ## Table of Contents
     
-    Install it!
+      * [Installation](#installation)
+      * [Usage](#usage)
+      * [Contributing](#contributing)
+      * [Tests](#tests)
+      * [License](#license)
+      * [Questions](#questions)
     
-    ## Usage
+      ## Installation
     
-    Use it!
+      Install along with inquirer@8.2.4 to use
     
-    ## Contributing
+      ## Usage
     
-    Don't!
+      use it
     
-    ## Tests
+      ## Contributing
     
-    Test it!
+      dont
     
-    ## License
-  
-  This project is licensed under the MIT license. Click [here](https://opensource.org/licenses/MIT) for more information.
-  
-  
+      ## Tests
     
-    ## Questions
+      dont
     
-    If you have any questions about the project, open an issue or contact me directly at [carsonbarnes98@gmail.com](mailto:carsonbarnes98@gmail.com). You can find more of my work at [cbarnes0](https://github.com/cbarnes0).
+      ## License
     
+      This project is licensed under the MIT license.
+    
+      ## Questions
+    
+      If you have any questions, please contact me at carsonbarnes98@gmail.com. You can also check out my GitHub profile at https://github.com/cbarnes0.
+      

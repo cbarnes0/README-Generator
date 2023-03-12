@@ -44,46 +44,50 @@ function renderLicenseBadge(license) {
   }
   
   // TODO: Create a function to generate markdown for README
-  function generateMarkdown(data) {
-    return `# ${data.title}
-  
-    ${renderLicenseBadge(data.license)}
-  
-    ## Description
+function generateMarkdown(data) {
+      const { title, description, installation, usage, contributing, tests, license, github, email } = data;
     
-    ${data.description}
+      return `# ${title}
     
-    ## Table of Contents
+      ![License](https://img.shields.io/badge/license-${license}-blue.svg)
     
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [License](#license)
-    - [Questions](#questions)
+      ## Description
     
-    ## Installation
+      ${description}
     
-    ${data.installation}
+      ## Table of Contents
     
-    ## Usage
+      * [Installation](#installation)
+      * [Usage](#usage)
+      * [Contributing](#contributing)
+      * [Tests](#tests)
+      * [License](#license)
+      * [Questions](#questions)
     
-    ${data.usage}
+      ## Installation
     
-    ## Contributing
+      ${installation}
     
-    ${data.contributing}
+      ## Usage
     
-    ## Tests
+      ${usage}
     
-    ${data.tests}
+      ## Contributing
     
-    ${renderLicenseSection(data.license)}
+      ${contributing}
     
-    ## Questions
+      ## Tests
     
-    If you have any questions about the project, open an issue or contact me directly at [${data.email}](mailto:${data.email}). You can find more of my work at [${data.github}](https://github.com/${data.github}).
-    `;
-  }
+      ${tests}
+    
+      ## License
+    
+      This project is licensed under the ${license} license.
+    
+      ## Questions
+    
+      If you have any questions, please contact me at ${email}. You can also check out my GitHub profile at https://github.com/${github}.
+      `;
+    }
   
   module.exports = generateMarkdown;
