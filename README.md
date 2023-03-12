@@ -21,7 +21,7 @@ To use first you must clone the repo. You then must use ```npm i``` and ```npm i
     
 ## Usage
     
-link to video will be put here after filming it.
+https://drive.google.com/file/d/1D8FQWEZ-g2Y-DwncniTEuFWykh2ft9C7/view
     
 ## Contributing
     
