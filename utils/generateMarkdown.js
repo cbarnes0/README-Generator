@@ -47,47 +47,47 @@ function renderLicenseBadge(license) {
 function generateMarkdown(data) {
       const { title, description, installation, usage, contributing, tests, license, github, email } = data;
     
-      return `# ${title}
+return `# ${title}
     
-      ![License](https://img.shields.io/badge/license-${license}-blue.svg)
+![License](https://img.shields.io/badge/license-${license}-blue.svg)
     
-      ## Description
+## Description
     
-      ${description}
+${description}
     
-      ## Table of Contents
+## Table of Contents
     
-      * [Installation](#installation)
-      * [Usage](#usage)
-      * [Contributing](#contributing)
-      * [Tests](#tests)
-      * [License](#license)
-      * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
     
-      ## Installation
+## Installation
     
-      ${installation}
+${installation}
     
-      ## Usage
+## Usage
     
-      ${usage}
+${usage}
     
-      ## Contributing
+## Contributing
     
-      ${contributing}
+${contributing}
     
-      ## Tests
+## Tests
     
-      ${tests}
+${tests}
     
-      ## License
+## License
     
-      This project is licensed under the ${license} license.
+This project is licensed under the ${license} license.
     
-      ## Questions
+## Questions
     
-      If you have any questions, please contact me at ${email}. You can also check out my GitHub profile at https://github.com/${github}.
-      `;
+If you have any questions, please contact me at ${email}. You can also check out my GitHub profile at https://github.com/${github}.
+`;
     }
   
   module.exports = generateMarkdown;

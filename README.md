@@ -1,41 +1,40 @@
-# README-Generator
+# readme-gen
     
-      ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-Apache-blue.svg)
     
-      ## Description
+## Description
     
-      This project is meant to generate README
+gen readmes!
     
-      ## Table of Contents
+## Table of Contents
     
-      * [Installation](#installation)
-      * [Usage](#usage)
-      * [Contributing](#contributing)
-      * [Tests](#tests)
-      * [License](#license)
-      * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
     
-      ## Installation
+## Installation
     
-      Install along with inquirer@8.2.4 to use
+install it
     
-      ## Usage
+## Usage
     
-      use it
+use it
     
-      ## Contributing
+## Contributing
     
-      dont
+dont!
     
-      ## Tests
+## Tests
     
-      dont
+test it
     
-      ## License
+## License
     
-      This project is licensed under the MIT license.
+This project is licensed under the Apache license.
     
-      ## Questions
+## Questions
     
-      If you have any questions, please contact me at carsonbarnes98@gmail.com. You can also check out my GitHub profile at https://github.com/cbarnes0.
-      
+If you have any questions, please contact me at carsonbarnes98@gmail.com. You can also check out my GitHub profile at https://github.com/cbarnes0.
