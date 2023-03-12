@@ -6,4 +6,4 @@ The aim of the project was to create my own README generator using node.js and t
 
 ## Video Link
 
-https://drive.google.com/file/d/1v61vrw0snVipzuih3nArseh1xghSHeEl/view
+https://drive.google.com/file/d/1D8FQWEZ-g2Y-DwncniTEuFWykh2ft9C7/view
